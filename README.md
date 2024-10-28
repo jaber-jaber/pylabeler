@@ -1,3 +1,5 @@
 # Auto Labeller for Emails
 
-This project is a work in progress.
+Auto labelling received emails based on contents of the email.
+
+This project is a WIP.
